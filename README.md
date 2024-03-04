@@ -1,6 +1,6 @@
 #Scraping_Rider_Planet_USA (SCRAPY FRAMEWORK)
 
-The aim of  this project was to scrape one of the most protected Motocross-tracks list website known as 'RiderPlanet USA'. With its copy-paste disabling and Robox.txt features RiderPlanet USA brings unique challenges to any scraping Expert. Fortunately, I was able to utilize my expertise and successfully scraped the entire website. For this proect I have used scrapy framework to carry out all activities.
+The aim of  this project was to scrape 'RiderPlanet USA'. With its copy-paste disabling and Robox.txt features RiderPlanet USA brings unique challenges to any scraping Expert. Fortunately, I was able to utilize my expertise and successfully scraped the entire website. For this project I have used scrapy framework to carry out all activities.
 
 The First step challenge was to Figure out how to inspect the pages in Face of the website anti right or leFt click features. Using 'CNRL+SHIFT+I' I was able to overcome the challenge.
 
